@@ -8,55 +8,55 @@
       "predicate": {
         "custom_model_data": 647
       },
-      "model": "aresrpg:item/default_necklace"
+      "model": "custom/default_necklace"
     },
     {
       "predicate": {
         "custom_model_data": 13133
       },
-      "model": "aresrpg:item/default_axe"
+      "model": "custom/default_axe"
     },
     {
       "predicate": {
         "custom_model_data": 20284
       },
-      "model": "aresrpg:item/default_bow"
+      "model": "custom/default_bow"
     },
     {
       "predicate": {
         "custom_model_data": 22492
       },
-      "model": "aresrpg:item/wolf_gravestone"
+      "model": "custom/wolf_gravestone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44150
+      },
+      "model": "custom/default_sword"
     },
     {
       "predicate": {
         "custom_model_data": 55883
       },
-      "model": "aresrpg:item/default_belt"
+      "model": "custom/default_belt"
     },
     {
       "predicate": {
-        "custom_model_data": 58426
+        "custom_model_data": 79561
       },
-      "model": "aresrpg:item/default_sword"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 71827
-      },
-      "model": "aresrpg:item/default_helmet"
+      "model": "custom/default_helmet"
     },
     {
       "predicate": {
         "custom_model_data": 82562
       },
-      "model": "aresrpg:item/default_ring"
+      "model": "custom/default_ring"
     },
     {
       "predicate": {
         "custom_model_data": 83266
       },
-      "model": "aresrpg:item/default_stick"
+      "model": "custom/default_stick"
     }
   ]
 }

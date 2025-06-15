@@ -1,8 +1,0 @@
-{
-  "ui_spell_switch": {
-    "sounds": ["aresrpg:ui/spell_switch"]
-  },
-  "ui_spell_failed": {
-    "sounds": ["aresrpg:ui/spell_failed"]
-  }
-}
